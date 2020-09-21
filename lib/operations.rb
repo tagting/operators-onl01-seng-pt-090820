@@ -9,7 +9,7 @@ def unsafe?(speed)
     return false
   end
 def not_safe?(speed) #ternary operator
-  speed < 40 && > 60 FALSE : FALSE
+  speed < 40 && speed > 60 FALSE : FALSE
   end
 end
 	
